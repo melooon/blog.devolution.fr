@@ -1,4 +1,4 @@
-baseURL = "blog.devolution.fr"
+baseURL = "https://blog.devolution.fr"
 languageCode = "en"
 title = "Hugo Blog"
 theme = "hugo-nuo"
